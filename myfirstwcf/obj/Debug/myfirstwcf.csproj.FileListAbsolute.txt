@@ -1,0 +1,6 @@
+c:\users\575435\documents\visual studio 2010\Projects\myfirstwcf\myfirstwcf\bin\Debug\myfirstwcf.dll.config
+c:\users\575435\documents\visual studio 2010\Projects\myfirstwcf\myfirstwcf\bin\Debug\myfirstwcf.dll
+c:\users\575435\documents\visual studio 2010\Projects\myfirstwcf\myfirstwcf\bin\Debug\myfirstwcf.pdb
+c:\users\575435\documents\visual studio 2010\Projects\myfirstwcf\myfirstwcf\obj\Debug\myfirstwcf.dll
+c:\users\575435\documents\visual studio 2010\Projects\myfirstwcf\myfirstwcf\obj\Debug\myfirstwcf.pdb
+C:\Users\575435\Documents\Visual Studio 2010\Projects\myfirstwcf\myfirstwcf\obj\Debug\myfirstwcf.csprojResolveAssemblyReference.cache
